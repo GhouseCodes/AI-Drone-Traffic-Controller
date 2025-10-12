@@ -28,9 +28,8 @@ It predicts potential collisions, reroutes drones dynamically, and visualizes li
 
 ## 💻 Tech Stack
 - **Backend:** Python, FastAPI  
-- **AI/ML:** NumPy, Scikit-learn, TensorFlow (for future versions)  
-- **Visualization:** Streamlit, Matplotlib, Plotly  
-- **Database:** MongoDB / TimescaleDB (optional for real data)  
+- **AI/ML:** NumPy, Scikit-learn,
+- **Visualization:** Streamlit, Matplotlib, Plotly   
 - **Simulation:** Drone telemetry in 2D/3D space  
 
 ## 📂 Files in Repository
@@ -38,9 +37,3 @@ It predicts potential collisions, reroutes drones dynamically, and visualizes li
 - `requirements.txt` – Python dependencies  
 - `README.md` – Project documentation  
 
----
-
-## ⚡ How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/AI-Drone-Traffic-Controller.git
