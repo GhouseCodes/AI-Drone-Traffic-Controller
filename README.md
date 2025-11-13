@@ -37,3 +37,5 @@ It predicts potential collisions, reroutes drones dynamically, and visualizes li
 - `requirements.txt` – Python dependencies  
 - `README.md` – Project documentation  
 
+<img width="1152" height="858" alt="Screenshot 2025-11-13 130442" src="https://github.com/user-attachments/assets/1abc4986-07c3-4592-845b-ff033ee1e1bf" />
+
