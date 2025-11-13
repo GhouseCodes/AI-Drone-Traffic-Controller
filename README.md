@@ -38,4 +38,7 @@ It predicts potential collisions, reroutes drones dynamically, and visualizes li
 - `README.md` – Project documentation  
 
 <img width="1152" height="858" alt="Screenshot 2025-11-13 130442" src="https://github.com/user-attachments/assets/1abc4986-07c3-4592-845b-ff033ee1e1bf" />
+<img width="1894" height="901" alt="Screenshot 2025-11-13 130528" src="https://github.com/user-attachments/assets/e2e65dfb-7a38-4205-b453-4f9fe28760d3" />
+
+
 
